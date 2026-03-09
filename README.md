@@ -4,16 +4,18 @@
 ---
 
 ##  Learning Paths & CTF Labs
-A collection of my methodologies and solutions across various platforms:
+A collection of my methodologies and solutions across various platform:
 
-| Platform    | Primary Focus                                          | 
-| **HackTheBox** | Full-stack machine exploitation & Web-focused labs. | [Access] |
-| **TryHackMe** | Learning paths (Jr Pentester, Offensive Security).   | [Access] |
-| **PicoCTF** | Foundations of Web exploitation.                       | [Access] |
-| **Root-Me** | Web-Server, Web-Client, and Network Challenges.        | [Access] |
+| **HackTheBox** |
+
+| **TryHackMe** | 
+
+| **PicoCTF** | 
+
+| **Root-Me** | 
+
 ---
 
-## 🛠️ Specialized Technical Methodology
-While I explore various security domains, my core methodology focuses on the **OWASP Top 10** and the **Web Kill Chain**.
+##  While I explore various security domains, my core methodology focuses on the **OWASP Top 10** and the **Web Kill Chain**.
 
 *Maintained by RoachXX.*
